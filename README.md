@@ -76,3 +76,5 @@ Conclusion
 A Real-Time Collaboration Document Editor is a powerful tool for enabling seamless collaboration among users. By leveraging HTML, CSS, JavaScript, and Node.js, developers can create a dynamic and responsive application that supports real-time editing. Using VSCode and Live Server simplifies the development process, making it easier to build, test, and deploy the application. This project demonstrates the potential of real-time web technologies and provides a foundation for building more advanced collaborative tools.
 
 # OUTPUT VIDEO :
+
+![Image](https://github.com/user-attachments/assets/68994ae0-da9e-44b2-bf62-10f9e4e450e7)
